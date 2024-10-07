@@ -1,0 +1,18 @@
+/* user-contactus */
+.contact-head{
+    text-align:left;
+    margin: auto;
+    padding:25px;
+}
+.contact-form{
+    margin:15px 20px;}
+.contactus-para{
+    text-align:justify;
+}
+/* end */
+
+/* userprofile */
+.nrc-group {
+    display: flex;
+    align-items: center;
+    gap: 5px;}
